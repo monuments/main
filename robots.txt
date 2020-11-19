@@ -1,0 +1,4 @@
+User-agent: *
+Allow: *
+Sitemap: https://monuments.github.io/sitemap.xml
+Host: monuments.github.io
